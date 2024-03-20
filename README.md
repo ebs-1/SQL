@@ -1,5 +1,5 @@
 > [!TIP]
-> Read Here.
+> Read this first.
 
 
 # Ebony's SQL Portfolio
